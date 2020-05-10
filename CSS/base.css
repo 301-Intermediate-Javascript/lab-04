@@ -1,5 +1,8 @@
 * {
     box-sizing: border-box;
-    outline: red 2px dotted;
+    /* outline: red 2px dotted; */
 }
 
+div{
+    border: solid 1px black;
+}
