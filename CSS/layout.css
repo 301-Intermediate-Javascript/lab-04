@@ -124,14 +124,31 @@ main :nth-child(1) section:nth-child(3) div:nth-child(7) {
         height: 125px;
         background-color: green;
     }
-    
+    main :nth-child(1) section:nth-child(3) div:nth-child(1) {
+        background-color: peru;
+    }
+    main :nth-child(1) section:nth-child(3) div:nth-child(2){
+        background-color: violet;
+    }
     main :nth-child(1) section:nth-child(3) div:nth-child(3), main :nth-child(1) section:nth-child(3) div:nth-child(4), 
     main :nth-child(1) section:nth-child(3) div:nth-child(5), main :nth-child(1) section:nth-child(3) div:nth-child(6) {
         width: 240px;
         height: 250px;
         background-color: purple;
     }
-    
+    main :nth-child(1) section:nth-child(3) div:nth-child(3) {
+        background-color: goldenrod;
+    }
+
+    main :nth-child(1) section:nth-child(3) div:nth-child(4){
+        background-color: burlywood;
+    }
+    main :nth-child(1) section:nth-child(3) div:nth-child(5){
+        background-color: hotpink;
+    }
+    main :nth-child(1) section:nth-child(3) div:nth-child(6){
+        background-color: rebeccapurple;
+    }
     main :nth-child(1) section:nth-child(3) div:nth-child(7) {
         width: 480px;
         height: 80px;
@@ -171,16 +188,31 @@ main :nth-child(1) section:nth-child(3) div:nth-child(7) {
         main :nth-child(1) section:nth-child(3) div:nth-child(1), main :nth-child(1) section:nth-child(3) div:nth-child(2) {
             width: 1024px;
             height: 125px;
+        }
+        main :nth-child(1) section:nth-child(3) div:nth-child(1) {
             background-color: orangered;
         }
-        
+        main :nth-child(1) section:nth-child(3) div:nth-child(2){
+            background-color: orange;
+        }
         main :nth-child(1) section:nth-child(3) div:nth-child(3), main :nth-child(1) section:nth-child(3) div:nth-child(4), 
         main :nth-child(1) section:nth-child(3) div:nth-child(5), main :nth-child(1) section:nth-child(3) div:nth-child(6) {
             width: 510px;
             height: 250px;
-            background-color: sienna;
         }
-        
+        main :nth-child(1) section:nth-child(3) div:nth-child(3) {
+            background-color: yellowgreen;
+        }
+
+        main :nth-child(1) section:nth-child(3) div:nth-child(4){
+            background-color: yellow;
+        }
+        main :nth-child(1) section:nth-child(3) div:nth-child(5){
+            background-color: thistle;
+        }
+        main :nth-child(1) section:nth-child(3) div:nth-child(6){
+            background-color: black;
+        }
         main :nth-child(1) section:nth-child(3) div:nth-child(7) {
             width: 1024px;
             height: 80px;
